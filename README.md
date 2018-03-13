@@ -25,4 +25,4 @@
 
 13. You can get feedback on your project by sharing it with your friends on Facebook.
 
-### Check it out the >>> https://codepen.io/ygordantas/full/GxoWQe/
+### Check it out >>> https://codepen.io/ygordantas/full/GxoWQe/
